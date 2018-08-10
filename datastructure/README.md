@@ -2,4 +2,4 @@
 
 by 5910451111 Mos Pasit
 
-This repository
+This repository contains programs for data stuctures.
